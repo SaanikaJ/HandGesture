@@ -1,0 +1,27 @@
+#heading{
+    font-size:19px;
+    font-family:'Times New Roman', Times, serif; 
+}
+
+body{
+    font-family:'Times New Roman', Times, serif; 
+    background-color:rosybrown;
+}
+
+.img_c{
+    height:50px;
+    width:50px;
+}
+
+.emoji{
+    font-size:19px; 
+}
+
+.emoji_name{
+    font-size:19px;
+}
+
+#result{
+    height:300px;
+    width:350px;
+}
